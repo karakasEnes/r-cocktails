@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/r-cocktails/static/css/main.274aee27.css",
-    "main.js": "/r-cocktails/static/js/main.5f93e721.js",
+    "main.js": "/r-cocktails/static/js/main.5f1bef0f.js",
     "static/media/logo.svg": "/r-cocktails/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
     "index.html": "/r-cocktails/index.html",
     "main.274aee27.css.map": "/r-cocktails/static/css/main.274aee27.css.map",
-    "main.5f93e721.js.map": "/r-cocktails/static/js/main.5f93e721.js.map"
+    "main.5f1bef0f.js.map": "/r-cocktails/static/js/main.5f1bef0f.js.map"
   },
   "entrypoints": [
     "static/css/main.274aee27.css",
-    "static/js/main.5f93e721.js"
+    "static/js/main.5f1bef0f.js"
   ]
 }
